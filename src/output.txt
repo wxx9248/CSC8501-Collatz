@@ -1,0 +1,43 @@
+Word 1:
+A
+B
+C
+
+Word 2:
+friend
+
+Word 3:
+to
+vi
+ti
+
+Word 4:
+ail
+all
+
+Word 5:
+it
+es
+is
+
+Word 6:
+a
+
+Word 7:
+friend
+
+Word 8:
+to
+so
+
+Word 9:
+pone
+zone
+pond
+lope
+pope
+nope
+pole
+none
+lone
+
